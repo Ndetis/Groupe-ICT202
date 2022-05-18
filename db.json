@@ -1,0 +1,48 @@
+{
+    
+    
+  "information":{
+      "image":"",
+      "nom":"KANOU FOKOU KENNY STEVE",
+      "resume":"mon resume ici"
+  },
+
+  "localisation":{
+      "téléphone":"237 655157103",
+      "Email":"kennystevekanou@gmail.com",
+      "adresse":"Yaoundé Cameroun"
+  },
+  
+  "compétences":[
+      {
+          "titre":"JavaScript",
+          "pourcentage":50
+      },
+      {
+      "titre":"TypeScript",
+          "pourcentage":20
+      }
+  ],
+  "formations":[
+      {
+          "Année":2022,
+          "contenu":"contenu formation 1"
+      },
+      {
+          "Année":2016,
+          "contenu":"contenu formation 2"
+      }
+  ],
+  "Education":[
+
+      {
+          "Année":2022,
+          "Diplome":"contenu education 1"
+      },
+      {
+          "Année":2016,
+          "contenu":"contenu formation 2 "
+      }
+  ]
+
+}
